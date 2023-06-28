@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet tower.blinkenlight.ni
+telnet tower.blinkenlight.n1
